@@ -1,0 +1,3 @@
+Time complexity for unsorted PQ is O(maxnumberOfJobs) and ArrayHeap is O(log(maxnumberOfJobs)
+Space Complexity for unsorted PQ is O(maxnumberOfJobs) and ArrayHeap is O(maxnumberOfJobs)
+Based on big o complexity and the implementations we can clearly see that arrayheap has faster time
