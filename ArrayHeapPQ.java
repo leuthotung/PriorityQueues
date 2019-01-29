@@ -1,4 +1,4 @@
-
+//ArrayHeapPQ class lmao xDDD
 public class ArrayHeapPQ {
 	Job[] jobs; 
 	int size;
