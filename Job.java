@@ -12,7 +12,7 @@ public class Job {
 	
 	public Job(String jobName, int jobLength, int currentJobLength, int jobPriority, int finalPriority, long entryTime,
 			long endTime, long waitTime,long initialentryTime) {
-	
+	//ayy lmao
 		this.jobName = jobName;
 		this.jobLength = jobLength;
 		this.currentJobLength = currentJobLength;
